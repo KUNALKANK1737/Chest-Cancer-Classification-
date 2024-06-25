@@ -12,6 +12,7 @@ SRC_REPO = "ChestCancerClassifier"
 AUTHOR_EMAIL = "kankkunal007@gmail.com"
 
 
+
 setuptools.setup(
     name=SRC_REPO,
     version=__version__,
