@@ -7,7 +7,7 @@ from  ChestCancerClassifier.pipeline.stage_04_model_evaluation import Evaluation
 
 STAGE_NAME = "Data Ingestion stage"
 
-
+ 
 try:
     logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
     obj = DataIngestionTrainingPipeline()
